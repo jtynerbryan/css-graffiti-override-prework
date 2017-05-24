@@ -1,1 +1,7 @@
 /* write your override styles here */
+
+body #wall #tag-2, body #wall div, body div#wall #tag-3.slick {
+	display: none;
+}
+
+
